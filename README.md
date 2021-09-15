@@ -6,15 +6,15 @@ A utility to generate `PreviewDevice` presets from the available devices
  
  - Manual
  
- Go to the GitHub page for the latest release
- Download the swiftgen-x.y.z.zip file associated with that release
- Extract the content of the zip archive in your project directory
+Go to the GitHub page for the [latest release](https://github.com/timberlanelabs/SwiftUIGen/releases/latest) <br>
+Download the `swiftuigen.zip` file associated with that release<br>
+Extract the content of the zip archive in your project directory
  
  - Homebrew
  
- ```terminal
- $ brew update
- $ brew install swiftuigen
+```terminal
+$ brew update
+$ brew install swiftuigen
 ```
 
 ### Usage
