@@ -13,7 +13,7 @@ Extract the content of the zip archive in your project directory
  - Homebrew
  
 ```terminal
-$ brew update
+$ brew tap timberlanelabs/tap
 $ brew install swiftuigen
 ```
 
