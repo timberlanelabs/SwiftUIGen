@@ -4,6 +4,10 @@ A utility to generate `PreviewDevice` presets from the available devices
 
 ### Installation
  
+ - Plugins!
+
+`SwiftUIGen` has been updated to support build tool and command plugins for Xcode and SPM. Simply add this package as a dependency and generate code however suits your workflow.
+ 
  - Manual
  
 Go to the GitHub page for the [latest release](https://github.com/timberlanelabs/SwiftUIGen/releases/latest) <br>
