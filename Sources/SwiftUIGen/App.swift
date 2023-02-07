@@ -2,10 +2,7 @@ import ArgumentParser
 import Foundation
 import SwiftUIGenKit
 
-enum Action: String, CaseIterable, ExpressibleByArgument {
-    case previews
-}
-
+@main
 struct SwiftUIGen: ParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "swiftuigen",
@@ -25,5 +22,3 @@ struct SwiftUIGen: ParsableCommand {
         }
     }
 }
-
-SwiftUIGen.main()
